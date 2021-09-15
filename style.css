@@ -1,0 +1,19 @@
+button {
+    height: 30px;
+    width: 49px;
+    background-color: black;
+    color: white;
+    border: ridge;
+    border-radius: 20px;
+    font-size: 10px;
+    border: none;
+}
+
+button:hover {
+    background-color: red;
+    color: black;
+    border: none;
+}
+body {
+    background-color: red;
+}
